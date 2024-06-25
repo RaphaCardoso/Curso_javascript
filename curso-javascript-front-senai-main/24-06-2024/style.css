@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+    background-color: blue;
+}
+
 .container {
     border: 1px solid red;
     /*Largura*/
