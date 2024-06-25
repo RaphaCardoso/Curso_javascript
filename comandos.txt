@@ -17,4 +17,7 @@ git push origin main
 
 git pull => para pegar o repositório atualizado
 
-git checkout "nome da branch" ou para trocar de branch
+git checkout -b "nome branch" para criar uma branch
+
+git branch --all para ver as branch que existem
+
