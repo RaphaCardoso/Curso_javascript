@@ -16,3 +16,5 @@ git commit -m "{algo}"
 git push origin main 
 
 git pull => para pegar o repositório atualizado
+
+git checkout "nome da branch" ou para trocar de branch
