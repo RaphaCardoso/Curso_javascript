@@ -21,5 +21,4 @@ git checkout -b "nome da branch" ou para trocar de branch
 
 git branch --all para ver as branch que existem
 
-git checkout -b "nome branch" para criar uma branch
 
