@@ -1,0 +1,8 @@
+pwd => comando que verifica o caminho que vc está
+
+ls -la =>
+
+ctrl + l => limpa
+
+ entrar na pasta => git clone
+https://github.com/RaphaCardoso/Curso_javascript.git
