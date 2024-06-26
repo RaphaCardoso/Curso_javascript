@@ -22,3 +22,13 @@ console.log("nome do aluno %s", nomeAluno);
 const casado = true;
 
 console.log("é casado?", casado);
+
+// Array é um conjunto de elementos 
+
+let linguagens = ["Java", "Python", "C#", "C++", "Ruby"];
+
+console.log(linguagens);
+
+console.table(linguagens);
+
+console.time(idadeAluno)
