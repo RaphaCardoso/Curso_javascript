@@ -23,6 +23,6 @@ console.log(valor);
 
 // Aprendendo sobre o for
 //  inicialização ;      condição       ;    incremento
-for (let index = 0; index < array.length; index++) {
-    const eleent = arra[index]
+for (let i = 0; i < 10; i++) {
+    console.log("agora i vale %s", i);
 }
