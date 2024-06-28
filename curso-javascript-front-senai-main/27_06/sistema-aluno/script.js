@@ -24,7 +24,6 @@ button.addEventListener("click", function (event) {
     }
 
     const tipo = parseInt(inputNotaValue) //typeof inputNotaValue;
-
     const validar = isNaN(tipo)
     console.log(validar);
 
