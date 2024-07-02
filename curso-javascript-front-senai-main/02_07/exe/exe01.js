@@ -1,7 +1,7 @@
 
 const drinkType = prompt("Escreva uma bebida:");
 
-let mensagem = ""
+let mensagem = "";
 
 switch (drinkType.toLowerCase()) {
     case "água":
