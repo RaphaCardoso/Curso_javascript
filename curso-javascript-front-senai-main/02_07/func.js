@@ -5,7 +5,7 @@ function nomeFuncao() {
 nomeFuncao();
 
 function calc(arg1, arg2) {
-    // Na função está a regra de negócio
+    // Na função está a regra de negócio que irá funcionar independente do input
     return arg1 + arg2;
 }
 
