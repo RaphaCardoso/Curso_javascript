@@ -10,6 +10,7 @@ let numbersArrays = 0;
 for (let i = 0; i < arrays.length; i++) {
     for (let j = 0; j < arrays[i].length; j++) {
         numbersArrays += arrays[i][j];
+        console.log(numbersArrays);
     }
 }
 console.log("Resultado: " + numbersArrays)
