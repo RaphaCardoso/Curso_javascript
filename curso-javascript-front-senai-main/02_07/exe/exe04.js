@@ -1,49 +1,51 @@
 const functions = [
     function () {
-        return ' oi'
+        return 'oi'
     },
     function () {
-        return ' tarde'
+        return 'tarde'
     },
     function () {
-        return ' boa'
+        return 'boa'
     },
     function () {
-        return ' bobão'
+        return 'bobão'
     },
     function () {
-        return ' vida'
+        return 'vida'
     },
     function () {
-        return ' a'
+        return 'a'
     },
     function () {
-        return ' vai'
+        return 'vai'
     },
     function () {
-        return ' como'
+        return 'como'
     },
     function () {
-        return ' dia'
+        return 'dia'
     },
     function () {
-        return ' bem'
+        return 'bem'
     },
     function () {
-        return ' bom'
+        return 'bom'
     },
     function () {
-        return ' tudo'
+        return 'tudo'
     }
-]
+];
 
-const mensagem = "";
+const mensagem = '';
 
-for (let index = 0; index < functions.length; index++) {
-    frase = functions[index];
+for (let i = 0; i < functions.length; i++) {
+    /*frase = `${functions[index]}`;
     console.log(frase);
-    mensagem += frase;
-    index++;
+    mensagem.concat(frase);
+    index++;*/
+
+    mensagem += `${functions[i]()} `;
 }
 
 console.log(mensagem);
